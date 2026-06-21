@@ -28,11 +28,11 @@ Hello World!
 ```
 #### type( )
 ``` python
+# função type( ) mostra o tipo de dado
 type(5)
 >>> int
 type("Python")
 >>> str
 type(3.11)
 >>> float
-# função type( ) mostra o tipo de dado
 ```

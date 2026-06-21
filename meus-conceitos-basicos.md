@@ -3,4 +3,5 @@ Code with Mu: a simple Python editor for beginner programmers. <br>
 https://codewith.mu/en/ <br>
 <br>
 print ("Hello World!")
-
+// função "print", as funções no Python, precisam ser chamadas, no caso da função: print("mostra na tela")
+<br>

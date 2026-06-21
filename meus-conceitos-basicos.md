@@ -8,7 +8,7 @@ Hello World!
 # função "print", as funções no Python, precisam ser chamadas, no caso da função: print("mostra na tela")
 ```
 #### Números
-``` pycon
+``` python
 >>> 2 + 2
 4
 >>> 3 - 1
@@ -27,7 +27,7 @@ Hello World!
 14
 ```
 #### type( )
-``` pycon
+``` python
 type(5)
 >>> int
 type("Python")

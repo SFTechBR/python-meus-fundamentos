@@ -40,3 +40,20 @@ print(type(500))
 print(type("Python"))
 >>> str
 ```
+#### Textos (Strings)
+``` python
+print("Python")
+>>> Python
+print("2026")
+>>> 2026
+print("Python " + "2026") # concatenar duas "string" com o sinal de "+" / "espaço" também é um caracter
+>>> Python 2026
+print("2026" * 3) # multiplica o valor de string com o sinal de "*"
+>>> 202620262026
+```
+#### len( )
+``` python
+# função len( ) mostra o tamanho da string
+print(len("Python"))
+>>> 6
+```

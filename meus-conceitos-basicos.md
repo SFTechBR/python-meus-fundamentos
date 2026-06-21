@@ -35,4 +35,8 @@ type("Python")
 >>> str
 type(3.11)
 >>> float
+print(type(500))
+>>> int
+print(type("Python"))
+>>> str
 ```

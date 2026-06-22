@@ -57,3 +57,4 @@ print("2026" * 3) # multiplica o valor de string com o sinal de "*"
 print(len("Python"))
 >>> 6
 ```
+
